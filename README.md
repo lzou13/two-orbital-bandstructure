@@ -1,2 +1,2 @@
 # two-orbital-bandstructure
-Band structure calculation 
+Two band bosonic band structure calculation 
